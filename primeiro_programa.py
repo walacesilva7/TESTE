@@ -10,7 +10,7 @@ soma(5)
 def dois (a,b):
     print(a+b)
 
-dois(5,7)
+dois(5,12)
 
 
 
